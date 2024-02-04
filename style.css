@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #333;
+  color: #333;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 34px rgb(255 255 255 / 75%);
+  padding: 20px;
+  max-width: 362px;
+  margin: 124px auto;
+}
+h1,
+p {
+  margin-bottom: 14px;
+}
+img {
+  max-width: 100%;
+  border-radius: 5px;
+  margin-bottom: 14px;
+}
+strong {
+  font-size: 16px;
+}
+li {
+  margin-bottom: 14px;
+  list-style-position: inside;
+}
+
+a {
+  color: black;
+}
